@@ -1,16 +1,79 @@
-## Hi there 👋
+## :purple_heart: Hi! Happy to see you here, <strong>I'm Sempai23w!</strong> ![](https://komarev.com/ghpvc/?username=sempai23w&color=006bed)
 
-<!--
-**CodeMaster-java/CodeMaster-java** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" min-width="400px" max-width="400px" width="400px" align="right">
 
-Here are some ideas to get you started:
+<p align="left"> 
+  Hey! I'm Robson, also known as Sempai23w. I'm a backend-focused developer passionate about bots, automations, coffee :coffee: and breaking things to learn :boom:. Always leveling up and building creative stuff with Node.js, Python, and more.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - :computer: Full Stack dev — backend is my playground.
+ - :robot: I build bots, APIs, and powerful automations.
+ - :tools: Into Node.js, Python, Java, C#, Lua, and JS.
+ - :rocket: Always learning and helping the dev community.
+
+<p align="left">
+  :love_letter: Where to find me: :arrow_heading_down:
+</p>
+
+<p align="left">
+  <a href="mailto:robsonjosecorreacarvalho@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-333333?style=flat&logo=gmail&logoColor=red"/>
+  </a>
+  <a href="https://github.com/sempai23w" title="GitHub">
+    <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"/>
+  </a>
+  <a href="https://discord.com/users/962811453293875220" title="Discord">
+    <img src="https://img.shields.io/badge/-Discord-333333?style=flat&labelColor=5865F2&logo=discord&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+<br/>
+
+## :rocket: My Skills
+**Applications and data**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
+![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+
+**Databases**
+
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
+
+<br/>
+<br/>
+
+## :star: GitHub Insights
+<div>
+  <a href="https://github.com/sempai23w">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sempai23w&show_icons=true&theme=shades-of-purple&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sempai23w&layout=compact&theme=shades-of-purple&hide_border=true" />
+    <img src="https://github-readme-streak-stats-six-topaz.vercel.app?user=sempai23w&theme=shades-of-purple&hide_border=true&short_numbers=true" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br/>
+
+[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D31383)](https://codetime.dev)
+
+#### Social networks!
+
+:house_with_garden: [Website](https://port-folio-two-indol.vercel.app) **|**    
+:e_mail: [Email](mailto:robsonjosecorreacarvalho@gmail.com) **|**  
+:robot: [Discord](https://discord.com/users/962811453293875220)
