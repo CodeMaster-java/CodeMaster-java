@@ -8,7 +8,7 @@
 
  - :computer: Full Stack dev — backend is my playground.
  - :robot: I build bots, APIs, and powerful automations.
- - :tools: Into Node.js, Python, Java, C#, Lua, and JS.
+ - 🔧 Into Node.js, Python, Java, C#, Lua, and JS.
  - :rocket: Always learning and helping the dev community.
 
 <p align="left">
@@ -75,5 +75,5 @@
 #### Social networks!
 
 :house_with_garden: [Website](https://port-folio-two-indol.vercel.app) **|**    
-:e_mail: [Email](mailto:robsonjosecorreacarvalho@gmail.com) **|**  
+📧 [Email](mailto:robsonjosecorreacarvalho@gmail.com) **|**  
 :robot: [Discord](https://discord.com/users/962811453293875220)
