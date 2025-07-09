@@ -1,4 +1,4 @@
-## :purple_heart: Hi! Happy to see you here, <strong>I'm Sempai23w!</strong> ![](https://komarev.com/ghpvc/?username=sempai23w&color=006bed)
+## :purple_heart: Hi! Happy to see you here, <strong>I'm CodeMaster!</strong> ![](https://komarev.com/ghpvc/?username=sempai23w&color=006bed)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" min-width="400px" max-width="400px" width="400px" align="right">
 
@@ -61,7 +61,7 @@
 
 ## :star: GitHub Insights
 <div>
-  <a href="https://github.com/sempai23w">
+  <a href="https://github.com/CodeMaster-java">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sempai23w&show_icons=true&theme=shades-of-purple&hide_border=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sempai23w&layout=compact&theme=shades-of-purple&hide_border=true" />
     <img src="https://github-readme-streak-stats-six-topaz.vercel.app?user=sempai23w&theme=shades-of-purple&hide_border=true&short_numbers=true" alt="GitHub Streak" />
