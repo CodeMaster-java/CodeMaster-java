@@ -63,7 +63,7 @@
 <div>
   <a href="https://github.com/CodeMaster-java">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeMaster-java&show_icons=true&theme=shades-of-purple&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sempai23w&layout=compact&theme=shades-of-purple&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMaster-java&layout=compact&theme=shades-of-purple&hide_border=true" />
     <img src="https://github-readme-streak-stats-six-topaz.vercel.app?user=CodeMaster-java&theme=shades-of-purple&hide_border=true&short_numbers=true" alt="GitHub Streak" />
   </a>
 </div>
