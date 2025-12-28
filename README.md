@@ -56,13 +56,22 @@ I build **scalable systems**, **APIs**, **web**, **desktop**, and **mobile appli
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CodeMaster-java&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMaster-java&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=CodeMaster-java&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMaster-java&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    height="170"
+  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CodeMaster-java&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://streak-stats.demolab.com?user=CodeMaster-java&theme=tokyonight&hide_border=true"
+  />
 </div>
+
 
 ---
 
