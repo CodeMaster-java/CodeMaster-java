@@ -9,38 +9,35 @@
 
 ### 👨‍💻 About Me
 I'm a **Fullstack Developer** with **6 years of experience**, strongly focused on **backend engineering**.  
-I build **scalable systems**, **APIs**, **websites**, **desktop and mobile applications**, and **automations** for multiple platforms.
+I build **scalable systems**, **APIs**, **web**, **desktop**, and **mobile applications**, as well as **automations** for different use cases.
 
-I enjoy working across the entire stack, from UI to infrastructure, but backend architecture is where I really **excel**.
-
-- 🚀 Fullstack developer (backend-first)
-- ⚙️ Scalable systems, APIs & integrations
-- 🖥️ Web, Desktop & Mobile applications
-- 🤖 Automations for multiple platforms
-- ☕ Clean code, performance and continuous learning
+- 🚀 Fullstack (backend-first)
+- ⚙️ APIs, systems & integrations
+- 🖥️ Web, Desktop & Mobile apps
+- 🤖 Automations (not platform-restricted)
+- ☕ Clean code & continuous learning
 
 ---
 
 ### 🎓 Education
-- 🎓 **Bachelor’s Degree in Information Systems** *(in progress)*
-- 🖥️ **Technical Degree in Information Technology*
+- 🎓 **Bachelor’s in Information Systems** *(in progress)*
+- 🖥️ **Technical Degree in Information Technology**
 
 ---
 
 ### 🧠 Tech Stack
 
 **Backend & Systems**
-- Node.js • Python • Java • PHP • C# • Lua
-- REST APIs • System Integration • Automation
+- Node.js • Python • Java • PHP • C# • Lua  
+- REST APIs • Integrations • Automation
 
 **Frontend**
-- React • Next.js
-- HTML • CSS • JavaScript • TypeScript
+- React • Next.js  
+- HTML • CSS • JavaScript • TypeScript  
 - Bootstrap • Tailwind CSS • Chart.js
 
 **Desktop & Mobile**
 - Electron • Tauri
-- Cross-platform system development
 
 **Databases**
 - MySQL • SQLite
@@ -53,7 +50,7 @@ I enjoy working across the entire stack, from UI to infrastructure, but backend 
 ### 🌐 Projects & Platforms
 - 🌍 **Portfolio:** https://port-folio-two-indol.vercel.app  
 - 🧠 **Fullstack Systems:** Web, Desktop & Mobile solutions  
-- ⚙️ **Automations:** Business workflows, integrations & tools  
+- ⚙️ **Automations:** Business workflows & integrations  
 
 ---
 
@@ -67,11 +64,10 @@ I enjoy working across the entire stack, from UI to infrastructure, but backend 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CodeMaster-java&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
+---
 
+### ⏱️ Code Activity
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D31383)](https://codetime.dev)
-
-</div>
 
 ---
 
