@@ -1,79 +1,85 @@
-## :purple_heart: Hi! Happy to see you here, <strong>I'm CodeMaster!</strong> ![](https://komarev.com/ghpvc/?username=sempai23w&color=006bed)
+## 💜 Hi! Welcome to my GitHub — I'm CodeMaster
+![](https://komarev.com/ghpvc/?username=CodeMaster-java&color=9D4EDD)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" min-width="400px" max-width="400px" width="400px" align="right">
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9D4EDD&size=26&center=true&vCenter=true&width=1000&lines=Fullstack+Developer;Backend-Focused;Web+%7C+Desktop+%7C+Mobile;Systems+%26+Automations)
 
-<p align="left"> 
-  Hey! I'm Robson, also known as Sempai23w. I'm a backend-focused developer passionate about bots, automations, coffee :coffee: and breaking things to learn :boom:. Always leveling up and building creative stuff with Node.js, Python, and more.
-</p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
+     width="380"
+     align="right">
 
- - :computer: Full Stack dev — backend is my playground.
- - :robot: I build bots, APIs, and powerful automations.
- - 🔧 Into Node.js, Python, Java, C#, Lua, and JS.
- - :rocket: Always learning and helping the dev community.
+### 👨‍💻 About Me
+I'm a **Fullstack Developer** with **6 years of experience**, strongly focused on **backend engineering**.  
+I build **scalable systems**, **APIs**, **websites**, **desktop and mobile applications**, and **automations** for multiple platforms.
 
-<p align="left">
-  :love_letter: Where to find me: :arrow_heading_down:
-</p>
+I enjoy working across the entire stack, from UI to infrastructure, but backend architecture is where I really **excel**.
 
-<p align="left">
-  <a href="mailto:robsonjosecorreacarvalho@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-333333?style=flat&logo=gmail&logoColor=red"/>
-  </a>
-  <a href="https://github.com/sempai23w" title="GitHub">
-    <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"/>
-  </a>
-  <a href="https://discord.com/users/962811453293875220" title="Discord">
-    <img src="https://img.shields.io/badge/-Discord-333333?style=flat&labelColor=5865F2&logo=discord&logoColor=white"/>
-  </a>
-</p>
+- 🚀 Fullstack developer (backend-first)
+- ⚙️ Scalable systems, APIs & integrations
+- 🖥️ Web, Desktop & Mobile applications
+- 🤖 Automations for multiple platforms
+- ☕ Clean code, performance and continuous learning
 
-<br/>
-<br/>
+---
 
-## :rocket: My Skills
-**Applications and data**
+### 🎓 Education
+- 🎓 **Bachelor’s Degree in Information Systems** *(in progress)*
+- 🖥️ **Technical Degree in Information Technology*
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
-![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+---
+
+### 🧠 Tech Stack
+
+**Backend & Systems**
+- Node.js • Python • Java • PHP • C# • Lua
+- REST APIs • System Integration • Automation
+
+**Frontend**
+- React • Next.js
+- HTML • CSS • JavaScript • TypeScript
+- Bootstrap • Tailwind CSS • Chart.js
+
+**Desktop & Mobile**
+- Electron • Tauri
+- Cross-platform system development
 
 **Databases**
+- MySQL • SQLite
 
-![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+**DevOps & Tools**
+- Git • GitHub • Linux • VS Code
 
-**DevOps**
+---
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
+### 🌐 Projects & Platforms
+- 🌍 **Portfolio:** https://port-folio-two-indol.vercel.app  
+- 🧠 **Fullstack Systems:** Web, Desktop & Mobile solutions  
+- ⚙️ **Automations:** Business workflows, integrations & tools  
 
-<br/>
-<br/>
+---
 
-## :star: GitHub Insights
-<div>
-  <a href="https://github.com/CodeMaster-java">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeMaster-java&show_icons=true&theme=shades-of-purple&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMaster-java&layout=compact&theme=shades-of-purple&hide_border=true" />
-    <img src="https://github-readme-streak-stats-six-topaz.vercel.app?user=CodeMaster-java&theme=shades-of-purple&hide_border=true&short_numbers=true" alt="GitHub Streak" />
-  </a>
+### 📊 GitHub Stats
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CodeMaster-java&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMaster-java&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CodeMaster-java&theme=tokyonight&hide_border=true"/>
+</div>
 
-[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D31383)](https://codetime.dev)
+<div align="center">
 
-#### Social networks!
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D31383)](https://codetime.dev)
 
-:house_with_garden: [Website](https://port-folio-two-indol.vercel.app) **|**    
-📧 [Email](mailto:robsonjosecorreacarvalho@gmail.com) **|**  
-:robot: [Discord](https://discord.com/users/962811453293875220)
+</div>
+
+---
+
+### 📫 Contact
+- 🌍 Portfolio: https://port-folio-two-indol.vercel.app  
+- 📧 Email: robsonjosecorreacarvalho@gmail.com  
+- 💬 Discord: https://discord.com/users/962811453293875220  
+
+---
+
+> _Fullstack by profession. Backend by passion._
