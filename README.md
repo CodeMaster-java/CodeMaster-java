@@ -48,7 +48,7 @@ I build **scalable systems**, **APIs**, **web**, **desktop**, and **mobile appli
 ---
 
 ### 🌐 Projects & Platforms
-- 🌍 **Portfolio:** https://port-folio-two-indol.vercel.app  
+- 🌍 **Portfolio:** https://portfolio-xi-red-26.vercel.app/
 - 🧠 **Fullstack Systems:** Web, Desktop & Mobile solutions  
 - ⚙️ **Automations:** Business workflows & integrations  
 
