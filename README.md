@@ -135,8 +135,8 @@ Platform-agnostic automation
 ### <img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%239D4EDD&height=22"/> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeMaster-java&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMaster-java&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
+  <img src="https://git-readme-stats-nu.vercel.app/api?username=CodeMaster-java&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
+  <img src="https://git-readme-stats-nu.vercel.app/api/top-langs/?username=CodeMaster-java&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
 </div>
 
 <div align="center">
@@ -144,7 +144,7 @@ Platform-agnostic automation
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodeMaster-java&theme=algolia&no-frame=true&margin-w=8&row=1"/>
+  <img src="https://git-profile-trophy-five.vercel.app/?username=CodeMaster-java&theme=algolia&no-frame=true&margin-w=8&row=1"/>
 </div>
 
 ---
