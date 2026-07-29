@@ -152,7 +152,7 @@ Platform-agnostic automation
 ### <img src="https://api.iconify.design/lucide/clock.svg?color=%239D4EDD&height=22"/> Code Activity
 
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=plastic&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D31383)](https://codetime.dev)
-[![CodeTime Status](https://codetime.dev/api/widgets/status.svg?uid=31383&theme=light&style=minimal)](https://codetime.dev)
+[![CodeTime Status](https://codetime.dev/api/widgets/status.svg?uid=31383&theme=dark&style=minimal)](https://codetime.dev)
 
 ---
 
