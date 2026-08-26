@@ -117,8 +117,8 @@ Platform-agnostic automation
 ### <img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%239D4EDD&height=22"/> GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=CodeMaster-java&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true&cache_seconds=86400" height="170"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=CodeMaster-java&langs_count=5&theme=midnight-purple&hide_border=true&cache_seconds=86400" height="170"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=CodeMaster-java&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true&cache_seconds=86400" height="160"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=CodeMaster-java&layout=compact&theme=midnight-purple&hide_border=true&cache_seconds=86400" height="160"/>
 </div>
 
 <div align="center">
