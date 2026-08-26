@@ -1,11 +1,7 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F1A,50:4C1D95,100:9D4EDD&height=210&section=header&text=Robson%20José&fontSize=46&fontColor=E9D8FD&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Backend-Focused&descAlignY=58&descSize=18" width="100%"/>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&lines=building+scalable+backend+systems;designing+clean%2C+maintainable+APIs;automating+workflows+that+used+to+be+manual;web+%E2%80%A2+desktop+%E2%80%A2+mobile+%E2%80%94+one+codebase+at+a+time" alt="Typing SVG" />
-
 <img src="https://komarev.com/ghpvc/?username=CodeMaster-java&color=9D4EDD&style=flat&label=Profile+views" alt="Profile views"/>
-
 </div>
 
 <br/>
@@ -13,13 +9,11 @@
 ```bash
 robson@dev:~$ whoami
 Robson José · Fullstack Developer, backend-focused · 6 years of experience
-
 robson@dev:~$ cat focus.txt
 > Scalable APIs & systems integration
 > Web, desktop and mobile applications
 > Automations that remove repetitive work
 > Clean, maintainable code — always
-
 robson@dev:~$ status --current
 > Finishing Bachelor's in Information Systems
 > Open to backend & fullstack opportunities
@@ -49,36 +43,24 @@ I like solving real problems with simple, sustainable code — no overengineerin
 <table width="100%">
 <tr>
 <td align="center" width="25%">
-
 <img src="https://api.iconify.design/lucide/target.svg?color=%239D4EDD&height=24"/>
-
 <strong>Focus</strong><br/>
 Backend-first
-
 </td>
 <td align="center" width="25%">
-
 <img src="https://api.iconify.design/lucide/puzzle.svg?color=%239D4EDD&height=24"/>
-
 <strong>Specialty</strong><br/>
 APIs & Integrations
-
 </td>
 <td align="center" width="25%">
-
 <img src="https://api.iconify.design/lucide/layout-grid.svg?color=%239D4EDD&height=24"/>
-
 <strong>Platforms</strong><br/>
 Web · Desktop · Mobile
-
 </td>
 <td align="center" width="25%">
-
 <img src="https://api.iconify.design/lucide/zap.svg?color=%239D4EDD&height=24"/>
-
 <strong>Edge</strong><br/>
 Platform-agnostic automation
-
 </td>
 </tr>
 </table>
@@ -135,12 +117,12 @@ Platform-agnostic automation
 ### <img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%239D4EDD&height=22"/> GitHub Stats
 
 <div align="center">
-  <img src="https://git-readme-stats-nu.vercel.app/api?username=CodeMaster-java&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
-  <img src="https://git-readme-stats-nu.vercel.app/api/top-langs/?username=CodeMaster-java&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=CodeMaster-java&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true&cache_seconds=86400" height="170"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=CodeMaster-java&langs_count=5&theme=midnight-purple&hide_border=true&cache_seconds=86400" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=CodeMaster-java&theme=tokyonight&hide_border=true"/>
+  <img src="./assets/streak-stats.svg" height="170"/>
 </div>
 
 <div align="center">
